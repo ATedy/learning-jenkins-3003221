@@ -1,0 +1,6 @@
+- Job: collections of tasks
+- Build: running the projects
+- Build Step: a task inside a project
+- Build Step: a criteria for starting a build
+- Plugins: a software package that extends Jenkins
+- 
